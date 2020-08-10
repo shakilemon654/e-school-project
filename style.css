@@ -1,0 +1,128 @@
+*, *::before, *::after {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    margin-bottom: 50px;
+}
+
+.first-section {
+    background-color: #F0FFF0;
+    padding: 0px 50px 50px 50px;
+}
+
+.navbar-brand img{
+    width: 125px;
+    height: auto;
+}
+
+.button {
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    padding: 10px 30px;
+    color: white;   
+}
+
+.text-style {
+    font-size: 16px;
+    color: #585859;
+}
+
+.inner-div {
+    text-align: center;
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 20px 0px;
+}
+.inner-div img {
+    width: 66px;
+    height: 85px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}        
+.inner-div p {
+    font-size: 16px;
+}
+
+.section-heading {
+    font-weight: bold; 
+    font-size: 36px; 
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.card img {
+    padding: 15px 15px 0px 15px;
+}
+
+
+
+/* problem section */
+.card-bottom img{
+    width: 10%;
+    height: auto;
+    /* border: 1px solid red; */
+    padding: 0px;
+}
+.card-bottom {
+    /* border: 1px solid yellowgreen; */
+    /* height: 200px; */
+    margin-top: 30px;
+}
+
+.card-bottom p {
+    margin-top: 8%;
+    margin-left: 2%;
+}
+
+.col-line img {
+    width: 25px;
+    height: 20px;
+    height: auto;
+    /* border: 1px solid red; */
+    padding: 0px;
+}
+.col-line p{
+    margin-top: 13%;
+}
+/* problem section */
+
+
+.testimonial-section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 0px 150px;
+}
+
+.testimonial-section img {
+    width: 120px;
+    height: 120px;
+}
+
+.last-section {
+    background-color: #282531;
+    padding-top: 30px;  
+}
+
+.last-section p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.column-title p:first-child {
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: #CDCDCD;
+}
+
+.section-padding {
+    padding: 0px 60px;
+}
