@@ -33,7 +33,7 @@
     text-align: center;
     background: #F8FFFB;
     border-radius: 10px;
-    padding: 20px 0px;
+    padding: 10px 7px;
 }
 .inner-div img {
     width: 66px;
@@ -43,6 +43,11 @@
 }        
 .inner-div p {
     font-size: 16px;
+}
+
+.inner-div:hover {
+    background-color:#FFFFFF;
+    box-shadow: 1px 1px 20px #E5E5E5;
 }
 
 .section-heading {
@@ -102,7 +107,7 @@
 
 .last-section {
     background-color: #282531;
-    padding-top: 30px;  
+    padding: 30px 0px 0px 60px;  
 }
 
 .last-section p {
@@ -123,6 +128,6 @@ footer {
     color: #CDCDCD;
 }
 
-.section-padding {
+.mid-section-padding {
     padding: 0px 60px;
 }
