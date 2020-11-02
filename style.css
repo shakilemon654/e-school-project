@@ -99,7 +99,8 @@
 }
 
 .column-title p:first-child {
-    font-weight: bold;
+    font-weight: 600;
+    font-size: 20px;
 }
 
 footer {
@@ -119,3 +120,12 @@ footer {
     border: 1px solid red;
     padding: 0px;
 }
+
+.card-deck .card {
+    transition: transform 0.2s ease-in;
+}
+
+.card-deck .card:hover {
+    transform: translateY(-15px);
+}
+
